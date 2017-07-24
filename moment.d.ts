@@ -713,3 +713,5 @@ declare namespace moment {
 }
 
 export = moment;
+export as namespace moment;
+
